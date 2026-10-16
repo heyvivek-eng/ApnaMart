@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title description">
+  <title id="title">Demo product placeholder</title>
+  <desc id="description">Illustration indicating a demo catalog item without a product photograph.</desc>
+  <rect width="640" height="480" fill="#edf4ff"/>
+  <rect x="170" y="105" width="300" height="270" rx="28" fill="#d8e7ff"/>
+  <path d="M245 250h150l-18 84h-114z" fill="#1d63e9"/>
+  <path d="M270 246c0-30 21-54 50-54s50 24 50 54" fill="none" stroke="#1d63e9" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="290" cy="285" r="10" fill="#fff"/>
+  <circle cx="350" cy="285" r="10" fill="#fff"/>
+</svg>
