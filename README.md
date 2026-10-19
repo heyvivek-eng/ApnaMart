@@ -327,7 +327,7 @@ For further feature details and planned improvements, see [`docs/FEATURES.md`](d
 
 ## 👨‍💻 Developer
 
-**Vivek Singh Chauhan**
+**Vivek Chauhan**
 
 GitHub: [@heyvivek-eng](https://github.com/heyvivek-eng)
 
